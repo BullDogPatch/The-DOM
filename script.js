@@ -45,3 +45,6 @@ ul.appendChild(item2);
 ul.appendChild(item3);
 ul.appendChild(item4);
 ul.appendChild(item5);
+
+// Stretch goal
+// h1.remove();
